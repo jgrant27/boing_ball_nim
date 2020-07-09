@@ -11,5 +11,5 @@ bin           = @["boing_ball"]
 # Dependencies
 
 #requires "nimgame2 >= 0.6.1"
-requires "nim >= 1.3.5"
+requires "nim >= 1.2"
 requires "sdl2_nim >= 2.0.0"
